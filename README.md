@@ -4,16 +4,17 @@ A full-stack personal finance management application built with Spring Boot, Rea
 
 ## Features
 
-- **CRUD Operations**: Create, Read, Update, and Delete transactions
-- **Dashboard**: View financial summary with total income, expenses, and balance
-- **Transaction Types**: Track both income and expense transactions
-- **Categories**: Organize transactions by categories
-- **Date Tracking**: Track transactions by date
-- **Filtering**: Filter transactions by type, category, and date range
-- **Responsive Design**: Works seamlessly on desktop and mobile devices
+- [x] **CRUD Operations**: Create, Read, Update, and Delete transactions
+- [x] **Dashboard**: View financial summary with total income, expenses, and balance
+- [x] **Transaction Types**: Track both income and expense transactions
+- [x] **Categories**: Organize transactions by categories
+- [x] **Date Tracking**: Track transactions by date
+- [x] **Sort**: Sort transactions by type, category, and date range
+- [x] **Responsive Design**: Works seamlessly on desktop and mobile devices
 
 ## Tech Stack
-
+| Area       | Technologies                                                                          |
+| :--------- | :------------------------------------------------------------------------------------ |
 | Backend | Spring Boot 4.0.1, Java 21, Maven, Hibernate, Spring Data JPA, Spring Web, Lombok |
 | Frontend | React, CSS, AXios, date-fns, Recharts |
 | Database | PostgreSQL |
